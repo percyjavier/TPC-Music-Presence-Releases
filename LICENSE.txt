@@ -19,6 +19,15 @@ no estás de acuerdo, no instales ni uses la Aplicación.
         a ThePercyCorner ("el Titular").
    1.2. La Aplicación se licencia, no se vende. No se transmite al usuario
         ningún derecho de propiedad sobre ella.
+   1.3. ThePercyCorner es el creador oficial de la Aplicación. La única fuente
+        oficial de distribución es el repositorio público de descargas de la
+        cuenta de GitHub "percyjavier" de ThePercyCorner
+        (https://github.com/percyjavier/TPC-Music-Presence-Releases), salvo que
+        el Titular anuncie oficialmente otro canal. Cualquier copia obtenida en
+        otro lugar sin ese anuncio oficial no está respaldada por el Titular,
+        que no garantiza su integridad ni su seguridad: puede haber sido
+        modificada o contener software malicioso. El Titular recomienda no
+        instalarla ni fiarse de ella.
 
 2. LO QUE NO ES PROPIEDAD DEL TITULAR
    2.1. La web y el reproductor de Mundo Conan Music (music.mundoconan.com), su
@@ -158,6 +167,15 @@ If you do not agree, do not install or use the Application.
         "Owner").
    1.2. The Application is licensed, not sold. No ownership of it is
         transferred to the user.
+   1.3. ThePercyCorner is the official creator of the Application. The only
+        official source of distribution is the public downloads repository of
+        ThePercyCorner's GitHub account "percyjavier"
+        (https://github.com/percyjavier/TPC-Music-Presence-Releases), unless
+        the Owner officially announces another channel. Any copy obtained
+        elsewhere without that official announcement is not endorsed by the
+        Owner, who does not guarantee its integrity or safety: it may have
+        been modified or contain malicious software. The Owner recommends not
+        installing or trusting it.
 
 2. WHAT THE OWNER DOES NOT OWN
    2.1. The Mundo Conan Music website and player (music.mundoconan.com), its

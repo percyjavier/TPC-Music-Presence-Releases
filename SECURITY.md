@@ -17,7 +17,11 @@ Only the latest published version receives security fixes.
 
 ## How to know a download is genuine
 
-The only official downloads are the releases of the public downloads repository.
+ThePercyCorner is the official creator of the app. The only official downloads are the releases of the public
+downloads repository of the GitHub account `percyjavier`. **If you find the app anywhere else without an official
+announcement by ThePercyCorner, do not trust it and do not install it**: it may have been modified or contain
+malicious software.
+
 Each release includes `SHA256SUMS.txt`. Before installing, compare the checksum:
 
 ```powershell

@@ -8,10 +8,17 @@ Aplicación de escritorio para Windows que muestra en tu Discord la canción que
 > **Proyecto de fan, no oficial.** No pertenece ni está afiliado a Mundo Conan, a su creador o estudio, ni a Discord.
 > Hecho por un fan de Detective Conan, sin ánimo de lucro.
 
-## Descarga
+## Creador oficial y descarga
 
-La **única descarga oficial** está en [Releases](https://github.com/percyjavier/TPC-Music-Presence-Releases/releases).
-No descargues la aplicación de ningún otro sitio.
+**ThePercyCorner es el creador oficial de TPC Music Presence.**
+
+La **única fuente oficial de descarga** es este repositorio de GitHub, de la cuenta `percyjavier` (ThePercyCorner):
+[Releases](https://github.com/percyjavier/TPC-Music-Presence-Releases/releases).
+
+> **Si encuentras la aplicación en cualquier otro sitio** (webs, foros, redes sociales, mensajes, servicios de descarga
+> o cualquier otra cuenta) **sin que ThePercyCorner lo haya anunciado oficialmente, no te fíes y no la instales.**
+> Puede estar modificada o contener software malicioso. ThePercyCorner no se hace responsable de las copias que no
+> procedan de esta cuenta de GitHub. Los anuncios oficiales de ThePercyCorner se hacen desde esta cuenta.
 
 Requisitos: Windows 10 u 11 (64 bits) y la aplicación de escritorio de Discord abierta.
 
