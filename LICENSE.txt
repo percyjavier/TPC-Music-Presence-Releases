@@ -1,0 +1,278 @@
+TPC MUSIC PRESENCE
+Rich Presence para el reproductor de música de la web de Mundo Conan
+CONTRATO DE LICENCIA DE USUARIO FINAL (EULA)
+Copyright (c) 2026 ThePercyCorner. Todos los derechos reservados.
+
+(English version below)
+
+================================================================================
+VERSION EN ESPAÑOL
+================================================================================
+
+Lee este contrato con atención. Al instalar o usar la aplicación "TPC Music
+Presence" (en adelante, la "Aplicación") aceptas estos términos. Si
+no estás de acuerdo, no instales ni uses la Aplicación.
+
+1. TITULARIDAD
+   1.1. Todos los derechos de la Aplicación (su código, diseño, textos, logotipo
+        de TPC, pantallas de introducción y demás elementos propios) pertenecen
+        a ThePercyCorner ("el Titular").
+   1.2. La Aplicación se licencia, no se vende. No se transmite al usuario
+        ningún derecho de propiedad sobre ella.
+
+2. LO QUE NO ES PROPIEDAD DEL TITULAR
+   2.1. La web y el reproductor de Mundo Conan Music (music.mundoconan.com), su
+        contenido, su música y todo lo relacionado con Mundo Conan Music y con
+        Mundo Conan pertenecen a Mundo Conan y a su respectivo creador o
+        estudio. Esto incluye los nombres "Mundo Conan Music" y "Mundo Conan".
+        El Titular no tiene ningún derecho sobre ellos y los menciona
+        únicamente para identificar el servicio con el que la Aplicación es
+        compatible, sin que ello implique afiliación, patrocinio ni respaldo.
+   2.2. El uso de la web y del reproductor de Mundo Conan, también cuando se
+        muestran dentro de la Aplicación, está sujeto a los términos de uso y
+        reglas de Mundo Conan, disponibles en
+        https://mundoconan.com/html/informacion-reglas, que el usuario se
+        compromete a respetar. Esos términos son independientes de este
+        contrato y los establece Mundo Conan, no el Titular.
+   2.3. Detective Conan y las obras, personajes, música e imágenes relacionados
+        pertenecen a sus respectivos autores y titulares de derechos.
+   2.4. La Aplicación es un proyecto independiente hecho por un fan. No es
+        oficial, y no pertenece ni está afiliada, patrocinada ni respaldada por
+        Mundo Conan, su creador, su estudio, Discord ni ningún titular de
+        derechos de Detective Conan.
+   2.5. La Aplicación respeta la web de Mundo Conan: se limita a mostrarla tal
+        cual es y a leer en pantalla los datos de la canción en reproducción.
+        No modifica la web, no descarga ni copia su contenido, no elude sus
+        cuentas, restricciones ni normas, y no altera su funcionamiento.
+   2.6. Si Mundo Conan, su creador o estudio, o cualquier titular de derechos
+        solicita que la Aplicación deje de funcionar con su web, o que se
+        modifique o retire cualquier elemento de ella, el Titular lo atenderá
+        sin demora y podrá actualizar, limitar o retirar la Aplicación o
+        cualquiera de sus versiones, sin que ello dé derecho al usuario a
+        indemnización ni reembolso alguno.
+   2.7. Los componentes de terceros incluidos (por ejemplo Electron, Chromium y
+        las bibliotecas de conexión con Discord) se rigen por sus propias
+        licencias, que se incluyen junto a la Aplicación (archivos
+        LICENSE.electron.txt, LICENSES.chromium.html y THIRD_PARTY_LICENSES.txt).
+        Nada de este contrato limita los derechos que esas licencias te conceden
+        sobre dichos componentes.
+
+3. LICENCIA DE USO
+   Sujeto a este contrato, el Titular te concede una licencia personal,
+   limitada, revocable, no exclusiva e intransferible para instalar y usar la
+   Aplicación, sin fines comerciales, en tus propios dispositivos, con el único
+   propósito de mostrar en tu Discord la música que escuchas en la web de Mundo
+   Conan Music.
+
+4. RESTRICCIONES
+   No se concede ningún derecho distinto de los expresamente indicados. Sin
+   permiso previo y por escrito del Titular, no puedes:
+   a) modificar, adaptar, traducir ni crear obras derivadas de la Aplicación;
+   b) copiar, distribuir, publicar, alquilar, prestar, vender, sublicenciar ni
+      poner la Aplicación o cualquier copia de ella a disposición de terceros,
+      ya sea modificada o sin modificar, por cualquier medio (incluidos
+      repositorios, webs, redes sociales y servicios de descarga);
+   c) descompilar, desensamblar, aplicar ingeniería inversa ni intentar obtener
+      el código fuente de la Aplicación, salvo en la medida en que la ley
+      aplicable lo permita expresamente y no pueda excluirse por contrato;
+   d) eliminar, alterar u ocultar avisos de copyright, de propiedad o
+      cualquier identificación del Titular;
+   e) eludir, desactivar o manipular las medidas técnicas de protección,
+      comprobación de integridad o seguridad de la Aplicación;
+   f) usar la Aplicación para descargar, copiar, extraer o redistribuir
+      contenido de la web de Mundo Conan, ni para eludir sus cuentas,
+      restricciones o normas;
+   g) usar la Aplicación para fines ilícitos, ni para perjudicar a Mundo Conan,
+      a Discord o a terceros.
+   Los usos que la ley permita aunque el contrato los prohíba (por ejemplo, la
+   copia de seguridad personal o la interoperabilidad en los términos que
+   establezca la normativa) no quedan afectados.
+
+5. PRIVACIDAD Y DATOS
+   5.1. La Aplicación no accede a tus credenciales ni a datos privados de tu
+        sesión en Mundo Conan Music, y no los registra, almacena ni transmite.
+   5.2. La Aplicación únicamente lee el título, el artista, la portada, el
+        enlace y el progreso de la canción en reproducción, y los envía a tu
+        propia aplicación de Discord, de forma local en tu dispositivo, para
+        mostrarlos como actividad.
+   5.3. La Aplicación no envía datos al Titular ni a ningún servidor propio.
+        Guarda localmente solo ajustes básicos (tamaño de ventana y si
+        compartir el estado está activado).
+   5.4. La web de Mundo Conan Music, que se muestra dentro de la Aplicación,
+        gestiona su propia sesión y sus propios datos bajo sus propias
+        condiciones y política de privacidad.
+
+6. SOPORTE
+   Para problemas, errores o dudas sobre la Aplicación, contacta con
+   ThePercyCorner a través de sus canales oficiales (usuario de Discord:
+   thepercycornerofficial). Si el problema es de la web o del reproductor,
+   pruébalo primero en el navegador; si el error también ocurre allí, contacta
+   con el soporte de Mundo Conan.
+
+7. AUSENCIA DE GARANTÍA
+   La Aplicación se ofrece "tal cual" y "según disponibilidad", sin garantías
+   de ningún tipo, expresas o implícitas, incluidas las de comerciabilidad,
+   idoneidad para un fin concreto o funcionamiento ininterrumpido o sin
+   errores. La Aplicación depende de servicios de terceros (la web de Mundo
+   Conan Music y Discord) que pueden cambiar o dejar de funcionar sin aviso, y
+   el Titular no responde de ello.
+
+8. LIMITACIÓN DE RESPONSABILIDAD
+   En la máxima medida permitida por la ley, el Titular no será responsable de
+   daños indirectos, incidentales, especiales o consecuentes derivados del uso
+   o de la imposibilidad de uso de la Aplicación. Nada de este contrato excluye
+   la responsabilidad que no pueda excluirse legalmente.
+
+9. DURACIÓN Y RESOLUCIÓN
+   Esta licencia dura hasta que se resuelva. Se resuelve automáticamente si
+   incumples cualquiera de sus términos, y puedes resolverla en cualquier
+   momento desinstalando la Aplicación y destruyendo todas las copias. Al
+   resolverse, debes dejar de usar la Aplicación. Las secciones 1, 2, 4, 7, 8 y
+   10 seguirán vigentes.
+
+10. DISPOSICIONES GENERALES
+    10.1. Este contrato es el acuerdo completo entre tú y el Titular respecto a
+          la Aplicación. Si alguna cláusula fuese inválida, el resto seguirá
+          vigente.
+    10.2. El Titular puede actualizar estos términos en nuevas versiones de la
+          Aplicación. El uso continuado tras una actualización implica su
+          aceptación.
+    10.3. Este contrato se rige por la legislación española, sin perjuicio de
+          los derechos que correspondan al usuario consumidor según la
+          normativa imperativa de su lugar de residencia.
+
+Copyright (c) 2026 ThePercyCorner. Todos los derechos reservados.
+
+
+================================================================================
+ENGLISH VERSION
+================================================================================
+
+Please read this agreement carefully. By installing or using the application
+"TPC Music Presence" (the "Application") you accept these terms.
+If you do not agree, do not install or use the Application.
+
+1. OWNERSHIP
+   1.1. All rights in the Application (its code, design, text, TPC logo, intro
+        screens and other original elements) belong to ThePercyCorner (the
+        "Owner").
+   1.2. The Application is licensed, not sold. No ownership of it is
+        transferred to the user.
+
+2. WHAT THE OWNER DOES NOT OWN
+   2.1. The Mundo Conan Music website and player (music.mundoconan.com), its
+        content, music and everything related to Mundo Conan Music and Mundo
+        Conan belong to Mundo Conan and its respective creator or studio. This
+        includes the names "Mundo Conan Music" and "Mundo Conan". The Owner has
+        no rights over them and mentions them only to identify the service the
+        Application is compatible with, without implying affiliation,
+        sponsorship or endorsement.
+   2.2. Use of the Mundo Conan website and player, including when shown
+        inside the Application, is subject to Mundo Conan's terms of use and
+        rules, available at https://mundoconan.com/html/informacion-reglas,
+        which the user agrees to respect. Those terms are separate from this
+        agreement and are set by Mundo Conan, not by the Owner.
+   2.3. Detective Conan and the related works, characters, music and images
+        belong to their respective authors and rights holders.
+   2.4. The Application is an independent fan-made project. It is unofficial
+        and is not owned by, affiliated with, sponsored by or endorsed by Mundo
+        Conan, its creator, its studio, Discord or any Detective Conan rights
+        holder.
+   2.5. The Application respects the Mundo Conan website: it only displays it
+        as it is and reads the details of the song being played from the
+        screen. It does not modify the website, does not download or copy its
+        content, does not circumvent its accounts, restrictions or rules, and
+        does not alter how it works.
+   2.6. If Mundo Conan, its creator or studio, or any rights holder asks that
+        the Application stop working with their website, or that any element of
+        it be changed or removed, the Owner will comply without delay and may
+        update, limit or withdraw the Application or any of its versions,
+        without entitling the user to any compensation or refund.
+   2.7. Included third-party components (for example Electron, Chromium and the
+        Discord connection libraries) are governed by their own licenses,
+        which are shipped with the Application (files LICENSE.electron.txt,
+        LICENSES.chromium.html and THIRD_PARTY_LICENSES.txt). Nothing in this
+        agreement limits the rights those licenses grant you over those
+        components.
+
+3. LICENSE TO USE
+   Subject to this agreement, the Owner grants you a personal, limited,
+   revocable, non-exclusive, non-transferable license to install and use the
+   Application, for non-commercial purposes, on your own devices, solely to
+   show on your Discord the music you listen to on the Mundo Conan Music
+   website.
+
+4. RESTRICTIONS
+   No rights are granted other than those expressly stated. Without the
+   Owner's prior written permission, you may not:
+   a) modify, adapt, translate or create derivative works of the Application;
+   b) copy, distribute, publish, rent, lend, sell, sublicense or make the
+      Application or any copy of it available to third parties, modified or
+      unmodified, by any means (including repositories, websites, social media
+      and download services);
+   c) decompile, disassemble, reverse engineer or attempt to obtain the source
+      code of the Application, except to the extent applicable law expressly
+      permits and cannot be excluded by contract;
+   d) remove, alter or obscure copyright or proprietary notices or any
+      identification of the Owner;
+   e) circumvent, disable or tamper with the Application's technical
+      protection, integrity-check or security measures;
+   f) use the Application to download, copy, extract or redistribute content
+      from the Mundo Conan website, or to circumvent its accounts,
+      restrictions or rules;
+   g) use the Application for unlawful purposes or to harm Mundo Conan,
+      Discord or third parties.
+   Uses that the law permits even if this agreement forbids them (for example
+   personal backup copies or interoperability as established by applicable
+   law) are not affected.
+
+5. PRIVACY AND DATA
+   5.1. The Application does not access your credentials or private session
+        data on Mundo Conan Music, and does not record, store or transmit them.
+   5.2. The Application only reads the title, artist, cover, link and progress
+        of the song being played, and sends them to your own Discord
+        application, locally on your device, to display them as an activity.
+   5.3. The Application does not send data to the Owner or to any server of its
+        own. It stores locally only basic settings (window size and whether
+        status sharing is enabled).
+   5.4. The Mundo Conan Music website, shown inside the Application, manages
+        its own session and data under its own terms and privacy policy.
+
+6. SUPPORT
+   For problems, bugs or questions about the Application, contact
+   ThePercyCorner through their official channels (Discord user:
+   thepercycornerofficial). If the problem is with the website or the player,
+   test it in your browser first; if the error also happens there, contact
+   Mundo Conan support.
+
+7. NO WARRANTY
+   The Application is provided "as is" and "as available", without warranties
+   of any kind, express or implied, including merchantability, fitness for a
+   particular purpose, or uninterrupted or error-free operation. The
+   Application depends on third-party services (the Mundo Conan Music website
+   and Discord) that may change or stop working without notice, and the Owner
+   is not responsible for that.
+
+8. LIMITATION OF LIABILITY
+   To the maximum extent permitted by law, the Owner shall not be liable for
+   indirect, incidental, special or consequential damages arising from the use
+   of or inability to use the Application. Nothing in this agreement excludes
+   liability that cannot be excluded by law.
+
+9. TERM AND TERMINATION
+   This license lasts until terminated. It terminates automatically if you
+   breach any of its terms, and you may terminate it at any time by
+   uninstalling the Application and destroying all copies. Upon termination you
+   must stop using the Application. Sections 1, 2, 4, 7, 8 and 10 survive.
+
+10. GENERAL
+    10.1. This agreement is the entire agreement between you and the Owner
+          regarding the Application. If any clause is invalid, the rest remains
+          in force.
+    10.2. The Owner may update these terms in new versions of the Application.
+          Continued use after an update means acceptance.
+    10.3. This agreement is governed by Spanish law, without prejudice to the
+          rights of consumer users under the mandatory rules of their place of
+          residence.
+
+Copyright (c) 2026 ThePercyCorner. All rights reserved.
